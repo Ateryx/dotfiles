@@ -1,0 +1,13 @@
+[user]
+  name = Aoxiang Cui
+  email = cuiaoxiang@gmail.com
+[credential]
+  helper = cache --timeout=86400
+[github]
+  user = cuiaoxiang
+  token =
+[push]
+  default = upstream
+[alias]
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+
